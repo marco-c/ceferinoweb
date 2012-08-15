@@ -1,0 +1,25 @@
+{
+  "version": "0.1",
+  "name": "CeferinoWEB",
+  "description": "Ceferino, a clone of Super Pang",
+  "icons": {
+    "16": "/ceferino-16.png",
+    "48": "/ceferino-48.png",
+    "128": "/ceferino-128.png"
+  },
+  "developer": {
+    "name": "Marco Castelluccio",
+    "url": "http://marco-c.github.com/ceferinoweb/"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/ceferino.appcache",
+  "locales": {
+    "it": {
+      "description": "Ceferino, un clone di Super Pang",
+      "developer": {
+        "url": "http://marco-c.github.com/ceferinoweb/"
+      }
+    }
+  },
+  "default_locale": "en"
+}
